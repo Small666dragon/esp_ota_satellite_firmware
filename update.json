@@ -1,0 +1,5 @@
+{
+  "name": "esp32-fota",
+  "version": "v1.0.0",
+  "url": "https://gitee.com/your_username/your_repo/raw/master/firmware.bin"
+}
