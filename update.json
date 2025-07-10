@@ -1,5 +1,5 @@
 {
   "type": "esp32-fota",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://gitee.com/mcu_studio/p_31_satellite_ota/raw/master/firmware.bin"
 }
