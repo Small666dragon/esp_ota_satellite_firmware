@@ -1,5 +1,5 @@
 {
   "type": "esp32-fota",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "url": "https://raw.githubusercontent.com/Small666dragon/esp_ota_satellite_firmware/refs/heads/master/firmware.bin"
 }
